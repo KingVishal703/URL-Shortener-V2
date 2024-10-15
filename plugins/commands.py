@@ -40,6 +40,7 @@ avl_web = [
     "shorturllink.in",
     "shareus.in",
     "earnspace.in",
+    "moviesking.in.net",
 ]
 
 avl_web1 = "".join(f"- {i}\n" for i in avl_web)
